@@ -565,3 +565,8 @@ a:hover > .ph img, a:hover .ph img { transform: scale(1.035); }
 .art-body li { font-size: 16.5px; color: var(--ink-2); margin-bottom: 6px; }
 .art-body strong { color: var(--ink); }
 .art-body a { color: var(--edge); text-underline-offset: 3px; }
+
+
+.art-body figure.anh-bai { margin: 22px 0 26px; }
+.art-body figure.anh-bai img { display: block; width: 100%; height: auto; border-radius: var(--r, 10px); background: var(--edge-soft, #eceef0); }
+.art-body figure.anh-bai figcaption { font-size: 13.5px; color: var(--ink-2); margin-top: 8px; }
