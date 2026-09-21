@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kinhopbep.pages.dev/sitemap.xml
+Sitemap: https://kinhopbep.xuongguongsoi.deno.net/sitemap.xml
